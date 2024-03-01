@@ -1,6 +1,8 @@
 # Paizo
 
-The forum for video game enthusiasts. Create reviews, guides, and articles about your favorite games, participate in discussions, or checkout people live streaming your favorite games, all from one place.
+**The forum for video game enthusiasts.**
+
+Create reviews, guides, and articles about your favorite games, participate in discussions, or checkout people live streaming your favorite games, all from one place.
 
 ## Features:
 
