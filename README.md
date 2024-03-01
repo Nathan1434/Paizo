@@ -1,6 +1,6 @@
 # Paizo
 
-This is a web application built with Angular 17 that functions as a forum for video game enthusiasts. Signed-in users can create reviews, guides, and articles about their favorite games, participate in discussions, and promote their live streams.
+The forum for video game enthusiasts. Create reviews, guides, and articles about your favorite games, participate in discussions, or checkout people live streaming your favorite games, all from one place.
 
 ## Features:
 
