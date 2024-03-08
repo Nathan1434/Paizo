@@ -18,7 +18,7 @@ Create reviews, guides, and articles about your favorite games, participate in d
 
 - Angular 17
 
-## Setup:
+## Setup
 
 - Clone the repository
 
